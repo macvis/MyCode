@@ -1,2 +1,3 @@
 # MyCode
-thinking in java, demo code stage
+Terrence Wen's study procedure, constructed by maven multi modules
+including java concurrency, Spring, RocketMQ, LeetCode etc.
